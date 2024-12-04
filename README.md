@@ -1,6 +1,6 @@
 # Predicting Diabetes Risk Using Machine Learning
 ## Overview:
-This project analyzes a dataset of 70,692 survey responses from the US in 2015 to identify key factors contributing to diabetes and develop machine learning classifiers for diabetes prediction. The goal is to propose the best classifier by comparing different models and their performance metrics.
+This project was done as part of my DSA1101 module and analyzes a dataset of 70,692 survey responses from the US in 2015 to identify key factors contributing to diabetes and develop machine learning classifiers for diabetes prediction. The goal is to propose the best classifier by comparing different models and their performance metrics.
 
 ## Key Features:
 ### Data Preprocessing:
