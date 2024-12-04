@@ -10,8 +10,10 @@ Treated ordinal variables (e.g., age, education, income) as quantitative for eff
 Explored relationships between diabetes prevalence and variables such as BMI, age, and general health using visualizations.
 Excluded variables like mental and physical health days, which showed no strong correlation with diabetes.
 ## Classification Models:
-### Models Used: Decision Trees, K-Nearest Neighbors (KNN), Naïve Bayes, and Logistic Regression.
-## Evaluation Metrics: Mean accuracy, type 2 error (false negative rate), and AUC-ROC.
+### Models Used: 
+Decision Trees, K-Nearest Neighbors (KNN), Naïve Bayes, and Logistic Regression.
+## Evaluation Metrics: 
+Mean accuracy, type 2 error (false negative rate), and AUC-ROC.
 ## Findings:
 KNN (K=46) emerged as the best model with the highest AUC (0.748), balancing true positives and false negatives effectively.
 Logistic Regression and Decision Trees also performed well, but Naïve Bayes was excluded due to its high type 2 error and independence assumptions.
