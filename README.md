@@ -19,12 +19,10 @@ KNN (K=46) emerged as the best model with the highest AUC (0.748), balancing tru
 Logistic Regression and Decision Trees also performed well, but Naïve Bayes was excluded due to its high type 2 error and independence assumptions.
 ## Tools & Techniques:
 ### Programming Language: 
-Python
+R
 ### Statistical Procedures:
 Feature selection using correlation and p-value analysis.
 Cross-validation (5-fold) to ensure model reliability.
-## Key Libraries: 
-Pandas, Scikit-learn, Matplotlib, and Seaborn.
 ## Conclusion:
 The KNN classifier demonstrated the best predictive performance but comes with computational complexity and memory requirements.
 It is recommended to use KNN in conjunction with standard diagnostic methods for a robust diabetes prediction system.
